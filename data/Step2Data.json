@@ -1,0 +1,13 @@
+{
+  "records": [
+    {
+      "attributes": {
+        "type": "iosMinihack1__instrumentation__c",
+        "referenceId": "iosMinihack1__instrumentation__cRef1"
+      },
+      "iosMinihack1__Type__c": "View Did Load",
+      "iosMinihack1__Previous__c": "String",
+      "iosMinihack1__Next__c": "AccountSceneController"
+    }
+  ]
+}

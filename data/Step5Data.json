@@ -1,0 +1,169 @@
+{
+  "records": [
+    {
+      "attributes": {
+        "type"       : "iosMinihack1__instrumentation__c",
+        "referenceId": "iosMinihack1__instrumentation__cRef1"
+      },
+      "iosMinihack1__Type__c"    : "RestClient Query",
+      "iosMinihack1__Endpoint__c": "/services/data",
+      "iosMinihack1__Path__c"    : "/v44.0/sobjects/Contact/0034T000006Qkm9QAC",
+      "iosMinihack1__Method__c"  : "0",
+      "iosMinihack1__Query__c"   : "Id, Name, Email, Phone, MailingStreet, MailingCity, MailingState, MailingPostalCode"
+    },
+    {
+      "attributes": {
+        "type"       : "iosMinihack1__instrumentation__c",
+        "referenceId": "iosMinihack1__instrumentation__cRef2"
+      },
+      "iosMinihack1__Type__c": "Cell Drawn"
+    },
+    {
+      "attributes": {
+        "type"       : "iosMinihack1__instrumentation__c",
+        "referenceId": "iosMinihack1__instrumentation__cRef3"
+      },
+      "iosMinihack1__Type__c": "Cell Drawn"
+    },
+    {
+      "attributes": {
+        "type"       : "iosMinihack1__instrumentation__c",
+        "referenceId": "iosMinihack1__instrumentation__cRef4"
+      },
+      "iosMinihack1__Type__c": "Cell Drawn"
+    },
+    {
+      "attributes": {
+        "type"       : "iosMinihack1__instrumentation__c",
+        "referenceId": "iosMinihack1__instrumentation__cRef5"
+      },
+      "iosMinihack1__Type__c": "Cell Drawn"
+    },
+    {
+      "attributes": {
+        "type"       : "iosMinihack1__instrumentation__c",
+        "referenceId": "iosMinihack1__instrumentation__cRef6"
+      },
+      "iosMinihack1__Type__c"    : "RestClient Query",
+      "iosMinihack1__Endpoint__c": "/services/data",
+      "iosMinihack1__Path__c"    : "/v44.0/query",
+      "iosMinihack1__Method__c"  : "0",
+      "iosMinihack1__Query__c"   : "SELECT Id, Name FROM Contact WHERE accountid = '0014T000004FeTjQAK' LIMIT 10"
+    },
+    {
+      "attributes": {
+        "type"       : "iosMinihack1__instrumentation__c",
+        "referenceId": "iosMinihack1__instrumentation__cRef7"
+      },
+      "iosMinihack1__Type__c": "Cell Drawn"
+    },
+    {
+      "attributes": {
+        "type"       : "iosMinihack1__instrumentation__c",
+        "referenceId": "iosMinihack1__instrumentation__cRef8"
+      },
+      "iosMinihack1__Type__c"    : "View Did Load",
+      "iosMinihack1__Previous__c": "AccountSceneController",
+      "iosMinihack1__Next__c"    : "ContactsSceneController"
+    },
+    {
+      "attributes": {
+        "type"       : "iosMinihack1__instrumentation__c",
+        "referenceId": "iosMinihack1__instrumentation__cRef9"
+      },
+      "iosMinihack1__Type__c"    : "View Did Load",
+      "iosMinihack1__Previous__c": "String",
+      "iosMinihack1__Next__c"    : "AccountSceneController"
+    },
+    {
+      "attributes": {
+        "type"       : "iosMinihack1__instrumentation__c",
+        "referenceId": "iosMinihack1__instrumentation__cRef10"
+      },
+      "iosMinihack1__Type__c"    : "RestClient Query",
+      "iosMinihack1__Endpoint__c": "/services/data",
+      "iosMinihack1__Path__c"    : "/v44.0/query",
+      "iosMinihack1__Method__c"  : "0",
+      "iosMinihack1__Query__c"   : "SELECT Id, Name FROM Account LIMIT 10"
+    },
+    {
+      "attributes": {
+        "type"       : "iosMinihack1__instrumentation__c",
+        "referenceId": "iosMinihack1__instrumentation__cRef11"
+      },
+      "iosMinihack1__Type__c": "Cell Drawn"
+    },
+    {
+      "attributes": {
+        "type"       : "iosMinihack1__instrumentation__c",
+        "referenceId": "iosMinihack1__instrumentation__cRef12"
+      },
+      "iosMinihack1__Type__c": "Cell Drawn"
+    },
+    {
+      "attributes": {
+        "type"       : "iosMinihack1__instrumentation__c",
+        "referenceId": "iosMinihack1__instrumentation__cRef13"
+      },
+      "iosMinihack1__Type__c": "Cell Drawn"
+    },
+    {
+      "attributes": {
+        "type"       : "iosMinihack1__instrumentation__c",
+        "referenceId": "iosMinihack1__instrumentation__cRef14"
+      },
+      "iosMinihack1__Type__c": "Cell Drawn"
+    },
+    {
+      "attributes": {
+        "type"       : "iosMinihack1__instrumentation__c",
+        "referenceId": "iosMinihack1__instrumentation__cRef15"
+      },
+      "iosMinihack1__Type__c": "Cell Drawn"
+    },
+    {
+      "attributes": {
+        "type"       : "iosMinihack1__instrumentation__c",
+        "referenceId": "iosMinihack1__instrumentation__cRef16"
+      },
+      "iosMinihack1__Type__c": "Cell Drawn"
+    },
+    {
+      "attributes": {
+        "type"       : "iosMinihack1__instrumentation__c",
+        "referenceId": "iosMinihack1__instrumentation__cRef17"
+      },
+      "iosMinihack1__Type__c": "Cell Drawn"
+    },
+    {
+      "attributes": {
+        "type"       : "iosMinihack1__instrumentation__c",
+        "referenceId": "iosMinihack1__instrumentation__cRef18"
+      },
+      "iosMinihack1__Type__c": "Cell Drawn"
+    },
+    {
+      "attributes": {
+        "type"       : "iosMinihack1__instrumentation__c",
+        "referenceId": "iosMinihack1__instrumentation__cRef19"
+      },
+      "iosMinihack1__Type__c"    : "View Did Load",
+      "iosMinihack1__Previous__c": "ContactsSceneController",
+      "iosMinihack1__Next__c"    : "ContactDetailSceneController"
+    },
+    {
+      "attributes": {
+        "type"       : "iosMinihack1__instrumentation__c",
+        "referenceId": "iosMinihack1__instrumentation__cRef20"
+      },
+      "iosMinihack1__Type__c": "Cell Drawn"
+    },
+    {
+      "attributes": {
+        "type"       : "iosMinihack1__instrumentation__c",
+        "referenceId": "iosMinihack1__instrumentation__cRef21"
+      },
+      "iosMinihack1__Type__c": "Cell Drawn"
+    }
+  ]
+}
